@@ -1,0 +1,64 @@
+{
+  "identity": {
+    "name": "Mahmood Sultani",
+    "headline": "Software Engineer",
+    "avatarUrl": "",
+    "profileUrl": "https://www.linkedin.com/in/imahmoodsultani"
+  },
+  "bio": "Building practical software products with a focus on reliability and user experience.",
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "Web Development"
+  ],
+  "experienceHighlights": [
+    "Designed and shipped production web applications",
+    "Built automation tooling for developer workflows",
+    "Improved reliability of data and API integrations"
+  ],
+  "projects": [
+    {
+      "name": "asana-task-duration-analyzer",
+      "description": "",
+      "url": "https://github.com/imahmoodsultani/asana-task-duration-analyzer",
+      "stars": 0
+    },
+    {
+      "name": "digitalMe",
+      "description": "A digital version of me being me",
+      "url": "https://github.com/imahmoodsultani/digitalMe",
+      "stars": 0
+    },
+    {
+      "name": "expense-tracker",
+      "description": "expense tracker vibe coded SDD",
+      "url": "https://github.com/imahmoodsultani/expense-tracker",
+      "stars": 0
+    }
+  ],
+  "contactLinks": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/imahmoodsultani"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/imahmoodsultani"
+    }
+  ],
+  "sourceStatus": [
+    {
+      "source": "linkedin",
+      "healthy": true
+    },
+    {
+      "source": "github",
+      "healthy": true
+    }
+  ],
+  "sourceErrors": [],
+  "lastUpdated": "2026-04-15T11:04:51.916Z",
+  "cacheStatus": "fresh",
+  "primarySource": "linkedin"
+}

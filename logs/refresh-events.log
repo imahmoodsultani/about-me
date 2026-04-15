@@ -1,0 +1,17 @@
+2026-04-15T11:02:20.081Z {"level":"warn","source":"github","action":"provider_attempt_failed","attempt":1,"message":"fetch failed"}
+2026-04-15T11:02:20.386Z {"level":"warn","source":"github","action":"provider_attempt_failed","attempt":2,"message":"fetch failed"}
+2026-04-15T11:02:20.558Z {"level":"info","action":"refresh_complete","sourcesHealthy":2,"sourcesTotal":2}
+2026-04-15T11:02:20.562Z {"level":"info","action":"refresh_complete","sourcesHealthy":2,"sourcesTotal":2}
+2026-04-15T11:02:20.563Z {"level":"warn","source":"linkedin","action":"provider_attempt_failed","attempt":1,"message":"linkedin down"}
+2026-04-15T11:02:20.865Z {"level":"warn","source":"linkedin","action":"provider_attempt_failed","attempt":2,"message":"linkedin down"}
+2026-04-15T11:02:20.991Z {"level":"warn","source":"github","action":"provider_attempt_failed","attempt":3,"message":"fetch failed"}
+2026-04-15T11:02:20.993Z {"level":"info","action":"refresh_complete","sourcesHealthy":1,"sourcesTotal":2}
+2026-04-15T11:02:21.466Z {"level":"warn","source":"linkedin","action":"provider_attempt_failed","attempt":3,"message":"linkedin down"}
+2026-04-15T11:02:21.467Z {"level":"warn","source":"github","action":"provider_attempt_failed","attempt":1,"message":"github down"}
+2026-04-15T11:02:21.768Z {"level":"warn","source":"github","action":"provider_attempt_failed","attempt":2,"message":"github down"}
+2026-04-15T11:02:22.369Z {"level":"warn","source":"github","action":"provider_attempt_failed","attempt":3,"message":"github down"}
+2026-04-15T11:02:22.371Z {"level":"info","action":"fallback_to_cache","reason":"all_sources_failed"}
+2026-04-15T11:04:12.138Z {"level":"info","action":"refresh_complete","sourcesHealthy":2,"sourcesTotal":2}
+2026-04-15T11:04:12.648Z {"level":"info","action":"refresh_complete","sourcesHealthy":2,"sourcesTotal":2}
+2026-04-15T11:04:42.494Z {"level":"info","action":"refresh_complete","sourcesHealthy":2,"sourcesTotal":2}
+2026-04-15T11:04:51.917Z {"level":"info","action":"refresh_complete","sourcesHealthy":2,"sourcesTotal":2}
