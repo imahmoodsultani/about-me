@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# runtime data
+data/
+logs/
+
+# test/temp artifacts
+coverage/
+.nyc_output/
+
+# environment
+.env
+.env.*
+
+# OS/editor noise
+.DS_Store
+*.swp
+*.swo
+
